@@ -1,0 +1,75 @@
+SGD-jalaepno-28
+SGD-soy sauce-58
+SGD-ginger garlic-67
+GD-soap case-28
+SG-milky bar-30
+SGD-jeera-96
+G-electrical tape-15
+S-bounty-67
+SGD-green chilli sauce-24
+SGD-vinegar-44
+SGD-red chilli sauce-24
+SGD-cornitos jalapeno-76
+SGD-cornitos cheese-42
+D-rigatoni-286
+SGD-spaghetti-66
+SGD-mushroom-35
+SGD-baby corn-49
+SGD-ocean mango-57
+GD-nandini cheese-78
+GD-bread slices-50
+SGD-jalapeno sauce-89
+S-papad-33
+S-strawberry donut-60
+G-pineapple donut-60
+D-white and dark donut-60
+SGD-paneer-180
+D-eggs-54
+SGD-butter-58
+SGD-garlic butter-58
+SGD-soya bread-50
+SG-pineapple mogu mogu-68
+SG-mango mm-68
+A-tomato-30.6
+SGD-mango-174.47
+SGD-plums-97.72
+SGD-strawberries-99
+SGD-corriander-8
+SGD-spinach-16
+SGD-spring onion-8
+SGD-mint-8
+SGD-apple-159.97
+A-carrot-17.88
+SGD-red chilli-2.99
+SGD-green chilli-5.75
+SGD-cabbage-45.24
+SGD-brocolli-43.07
+SGD-capsicum-25.72
+A-cucumber-28
+A-cucumber-25.55
+SGD-watermelon-100.49
+A-beans-14.72
+A-potato-63.84
+A-onion white-16.47
+A-garlic-21.9
+A-onion-19.08
+SGD-ginger-4.48
+SGD-carry bag-18*3
+
+SGD-ocean peach-60
+SGD-milk-23
+SGDJK-ariel-190
+SGDJK-harpic-44
+SGDJK-dettol-45
+SGD-pasta-95
+H-chillipowder-50
+H-corrianderpowder-38
+SGD-butter-58
+D-snickers-60
+D-kinderjoy-50
+S-doublemint-50
+S-snickers strawberry-60
+D-coffeebite-5
+D-toothbrush-80
+SGD-R20(?)-160
+SGD-bag-10
