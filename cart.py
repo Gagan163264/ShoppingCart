@@ -68,6 +68,32 @@ def ReportEngine(whopay):
         for item, cost, price in cost:
             print(f'  {item} - {cost:.2f} ({price})')
 
+def ReportEnginetoFile(whopay, path='report.txt'):
+    """
+    Writes a report of the shopping cart to a file.
+
+    Args:
+        whopay (dict): A dictionary containing the shopping cart information.
+            The keys are the names of the persons who made the purchases,
+            and the values are lists of tuples representing the items purchased,
+            their quantities, and their prices.
+        path (str, optional): The path of the file to write the report to.
+            Defaults to 'report.txt'.
+
+    Returns:
+        None
+    """
+    with open(path, 'w') as file:
+        file.write(f"Total amount: {sum([x[1] for person, cost in whopay.items() for x in cost])}\n")
+
+        for person, cost in whopay.items():
+            file.write(f"{person} owes {sum([x[1] for x in cost])}\n")
+
+        for person, cost in whopay.items():
+            file.write(f"{person}\n")
+            for item, cost, price in cost:
+                file.write(f'  {item} - {cost:.2f} ({price})\n')
+
 prefix = os.getcwd()
 path = os.path.join(prefix, 'Example', 'cart.txt')
 if len(sys.argv) > 1:
