@@ -22,3 +22,6 @@ This Python script calculates and splits the cost of a shopping cart among multi
 2. **Run the Script**:
    ```bash
    python script.py [optional_cart_file_name]
+
+
+Example is deprecated
